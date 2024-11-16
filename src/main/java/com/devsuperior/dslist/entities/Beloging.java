@@ -8,7 +8,7 @@ import jakarta.persistence.EmbeddedId;
 import java.util.Objects;
 
 @Entity
-@Table(name = "tb_beloging")
+@Table(name = "tb_belonging")
 
 
 public class Beloging {
