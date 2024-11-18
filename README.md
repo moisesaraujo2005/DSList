@@ -6,7 +6,8 @@ Java 21 <br>
 Spring Boot (Data JPA, Web) <br>
 Banco de Dados H2 (em memória) <br>
 Postman (para testes de API) <br>
-🛠️ Funcionalidades
+
+<h1>🛠️ Funcionalidades</h1>
 Listar todos os games cadastrados <br>
 Criar e organizar listas personalizadas de games <br>
 Ordenar games em uma lista <br>
