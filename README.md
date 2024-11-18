@@ -1,6 +1,3 @@
-
-Aqui está o README atualizado sem a seção de estrutura do projeto:
-
 DSList - Lista de Games 🎮
 Este é o projeto DSList, desenvolvido durante o Intensivão Java Spring oferecido pela DevSuperior. O objetivo do projeto foi criar uma aplicação backend para gerenciar uma lista de games utilizando Java, Spring Boot e outras tecnologias modernas.
 
