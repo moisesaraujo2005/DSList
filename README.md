@@ -1,19 +1,19 @@
-DSList - Lista de Games 🎮
+<h1>Lista de Games 🎮</h1> 
 Este é o projeto DSList, desenvolvido durante o Intensivão Java Spring oferecido pela DevSuperior. O objetivo do projeto foi criar uma aplicação backend para gerenciar uma lista de games utilizando Java, Spring Boot e outras tecnologias modernas.
 
-🔗 Tecnologias Utilizadas
+<h1>🔗 Tecnologias Utilizadas</h1>
 Java 21
 Spring Boot (Data JPA, Web)
 Banco de Dados H2 (em memória)
 Postman (para testes de API)
 
-🛠️ Funcionalidades
+<h1>🛠️ Funcionalidades</h1>
 Listar todos os games cadastrados
 Criar e organizar listas personalizadas de games
 Ordenar games em uma lista
 Consultar detalhes de um game específico
 
-🏗️ Como Executar o Projeto
+<h1>🏗️ Como Executar o Projeto</h1>
 Clone o repositório:
 bash
 Copiar código
@@ -35,7 +35,7 @@ Execute o projeto como uma aplicação Spring Boot.
 
 Acesse a aplicação pelo navegador em http://localhost:8080.
 
-📋 Endpoints da API
+<h1>📋 Endpoints da API</h1>
 GET /games
 Retorna a lista de todos os games cadastrados.
 
@@ -48,7 +48,7 @@ Retorna todas as listas de games.
 POST /lists/{listId}/replacement
 Atualiza a ordem dos games em uma lista.
 
-🖼️ Modelo de Dados
+<h1>🖼️ Modelo de Dados</h1>
 
 Game
 id: Identificador único
@@ -66,6 +66,6 @@ name: Nome da lista
 ![Captura de tela 2024-11-16 170623](https://github.com/user-attachments/assets/59bc8a7b-9385-4942-804f-51f410e03d85)
 
 
-🌟 Agradecimentos
+<h1>🌟 Agradecimentos</h1>
 Agradeço à DevSuperior pelo conteúdo de qualidade e pela oportunidade de aprofundar meus conhecimentos em Java e Spring Boot.
 
